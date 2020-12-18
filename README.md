@@ -1,2 +1,2 @@
-# test
-This is a test repository.
+# kadai1
+This isa a kadai1 repository.
